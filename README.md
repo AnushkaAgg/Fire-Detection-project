@@ -1,1 +1,2 @@
 # Fire-Detection-project
+Created a fire detection model using opencv, playsound, smtplib libraries. The model first identifies the fire on the basis of the threshold pixel value of the captured image from the video. Then if it exceeds the threshold value the email is sent to the receipient email address and then the alarm is played. I have recorded a video for testing this model but the video can also be captured using webcam. 
